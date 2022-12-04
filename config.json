@@ -1,0 +1,99 @@
+{
+  "botname": "Kyy-Md",
+  "botname2": "KyyBot",
+  "ownerNumber": [
+    "6285215319934",
+    "6283197670126"
+  ],
+  "mainten": false,
+  "Limit": 30,
+  "Reset_Time": {
+    "Hour": "6",
+    "Minute": "00"
+  },
+  "game_time": {
+    "gambar": 60,
+    "lagu": 60,
+    "kata": 30,
+    "kalimat": 30,
+    "lirik": 60
+  },
+  "mecha_image": "./src/images/Iky.jpg",
+  "prefix": [
+    "!",
+    "°",
+    "•",
+    "π",
+    "÷",
+    "×",
+    "¶",
+    "∆",
+    "£",
+    "¢",
+    "€",
+    "¥",
+    "®",
+    "™",
+    "✓",
+    "_",
+    "=",
+    "|",
+    "~",
+    "?",
+    "@",
+    "#",
+    "$",
+    "%",
+    "^",
+    "&",
+    ".",
+    "/",
+    "\/",
+    "©",
+    "^",
+    " "
+  ],
+  "ownername": "Kyy Kurosaki",
+  "igsession": "-",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "lowwer": "┛",
+    "down": "┗",
+    "line": "━",
+    "priority": [
+      "「",
+      "」"
+    ],
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ],
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ]
+  },
+  "response": {
+    "owner": "Khusus Owner",
+    "admin": "Khusus Admin",
+    "query": "Yang di cari apa?",
+    "group": "Khusus didalam Grup | Only Group",
+    "wait": "*WAIT! | Mohon Tunggu Sebentar...*",
+    "private": "Hanya bisa digunakan dipribadi Bot | Can only be used in private bot",
+    "notUrl": "Link Invalid",
+    "media": "Pesan Harus Berbentuk Media | Message Must be in the form of Media",
+    "mentioned": "Tag Member ",
+    "quoted": "Tag Pesannya Bang",
+    "_media": "Kirim/Reply Pesan Media Atau Tag Pesan Yang Terdapat Media | Send Media Messages Or Tag Messages That Have Media",
+    "Error": "Terjadi Kesalahan Saat Mengambil Data Tersebut | An Error Occurred While Retrieving The Data",
+    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
+    "clientAdmin": "Bot Nya Jadiin Admin Dong"
+  }
+}
